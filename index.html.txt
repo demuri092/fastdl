@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CS 1.6 FastDL</title>
+</head>
+<body>
+  <h1>CS 1.6 FastDL Files</h1>
+  <p>მოთამაშეებს შეუძლიათ ჩამოტვირთვა ავტომატურად.</p>
+</body>
+</html>
